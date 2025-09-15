@@ -1,0 +1,62 @@
+# Update 1.4.1 - The Cosmetic Update!
+Slimes Resurgence update v1.4.1 adds a ton of bug fixes and content updates!
+
+# Important Changes
+- Cosmetic Appearances. Yes, the transmog grind has come to Slimes Resurgence. With 16 new weapon transmog appearances dropped by heroic bosses or rewarded from heroic challenges.
+- Better UI Support. More UIs are supported with the main resource pack.
+
+# Talent Changes
+- High priest now gives +10 Holy Power instead of +100%.
+- Fixed high priest losing 60% of all damage sources instead of just physical.
+
+# Meet Veyla
+Seeker, the Threadbinder is here to keep the balance in check. To unlock her quests, you must be level 25 (35 recommended) and you must have travelled to the End dimension. All her quests are voice acted!
+
+# Quest Changes
+- The Faceless quest now rewards a Void Touched transmog of the player's choosing.
+- Possibly fixed issue where certain quests stay on a grey checkmark, please report if this happens and you're NOT using FTB Teams!
+
+# Relic Changes
+Fixed Arclight not being two handed,
+Fixed Arclight not being able to be smelted down to a molten core
+
+# Other Changes
+- Updated to Fabric Loader 0.17.2
+- Added more support for some modded UI's:
+- Accessories
+- Alloy Forgery
+- Bartering Station
+- Better End
+- Better Archeology
+
+- Some music tracks were not registering poperly, this is no longer the case
+- More item border support: Deeper & Darker, Jewelry and Additional RPG Jewelry.
+- Three new item types: Quest items, Reward items and Auras!
+
+# Mods
+## Removed:
+Frostiful
+Scorchful
+Dynamic Resource Bars
+SpiffyHUD
+YDM's Weaponmaster
+
+## Added:
+Pocket Repose
+Companions
+Transmog
+Customizable Elytra
+Longwings
+Ghosts
+The Pale Garden
+Happy Ghast
+
+## Updated:
+Resurgence Core
+Resurgence Abilities
+Slimes Attributes
+Dungeon Now Loading
+MCA Reborn
+
+
+See you soon, world guardians.
