@@ -13,20 +13,23 @@
 
 
 ## Mod Changes
-+ Sophisticated Backpacks
-+ Sophisticated Core
-+ Mod Update Checker
-+ ExtraQuests
-+ Garden Trails
-+ Fancy Toasts
-+ Immersive Armor HUD
-+ Overflowing Bars
-+ Wavey Capes
-+ Merchant Markers
-+ Inventory Particles
+### Added:
+- Sophisticated Backpacks
+- Sophisticated Core
+- Mod Update Checker
+- ExtraQuests
+- Garden Trails
+- Fancy Toasts
+- Immersive Armor HUD
+- Overflowing Bars
+- Wavey Capes
+- Merchant Markers
+- Inventory Particles
+
+### Removed:
 - Travelers Backpacks
 
-## Updated:
+### Updated:
 - Resurgence Core
 - Supplementaries
 - Moonlight
