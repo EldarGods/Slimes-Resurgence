@@ -1,4 +1,4 @@
-# Update 1.4.2
+# Update 1.4.2 - UI Changes
 
 ## Changes
 - There's a few new changes to the Main menu and in-game HUD. Now you can see the changelog directly from the main menu!
