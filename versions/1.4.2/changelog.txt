@@ -1,0 +1,40 @@
+# Update 1.4.2
+
+## Changes
+- There's a few new changes to the Main menu and in-game HUD. Now you can see the changelog directly from the main menu!
+- Added 19 new weapon cosmetic overrides, all dropped by heroic bosses.
+- New Textures. Over 100 new textures have been added to the resource pack.
+
+## Slimes SMP Changes
+- Updated a few of the quests to give better rewards. Hopefully this will encourage more reading and make progression feel a bit clearer.
+- Fixed an issue where some players were not receiving quest rewards.
+- Fixed an issue where some players were not receiving quest progress.
+- Switched Travelers Backpacks to Sophisticated Backpacks. All Travelers Backpacks have been converted to Sophisticated Backpacks, and all items inside have been preserved. Please report any issues with this change.
+
+
+## Mod Changes
++ Sophisticated Backpacks
++ Sophisticated Core
++ Mod Update Checker
++ ExtraQuests
++ Garden Trails
++ Fancy Toasts
++ Immersive Armor HUD
++ Overflowing Bars
++ Wavey Capes
++ Merchant Markers
++ Inventory Particles
+- Travelers Backpacks
+
+## Updated:
+- Resurgence Core
+- Supplementaries
+- Moonlight
+- Let's Do Vinery
+- Just Enough Breeding
+- Ghosts
+- Deimos Lib
+- Balm
+- Armor of the Ages
+- All The Wood We've Got
+
