@@ -1,0 +1,32 @@
+# Update 1.4.3 - The Lore Update
+
+## Changes
+- Added 80 new quest items, they will be used in future quests.
+- Links to the wiki have been added in the quest book and menus.
+- You can now build wagons, they are bigger carts that hold more items.
+- End Remastered Eyes have new textures.
+- Updated Quest Book icon.
+- Cinnamon saplings now have a texture.
+
+## Slimes SMP Changes
+- Fixed an issue where quest steps were not being marked as complete when the requirements were met.
+- Loot integration with DungeonZ, Philips Ruins and IceAndFire has been added.
+- You can now go back into character creation to change your skin and name.
+
+## Mod Changes
+### Added:
+- DungeonZ
+- DungeonZ Desert Addon
+- Epic Witch Huts
+- Philips Ruins
+- Giant Tree Stump
+- Giant Swamp Tree
+
+### Updated:
+- Resurgence Core
+- Nifty Carts
+- Armor of the Ages
+- Moonlight
+- CreativeCore
+- Resurgence UI
+
