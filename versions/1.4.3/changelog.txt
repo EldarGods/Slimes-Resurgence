@@ -1,4 +1,4 @@
-# Update 1.4.3 - The Lore Update
+# Update 1.4.3 - The Lore Update!
 
 ## Changes
 - Added 80 new quest items, they will be used in future quests.
