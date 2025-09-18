@@ -22,11 +22,15 @@
 - Giant Tree Stump
 - Giant Swamp Tree
 
+### Removed:
+- Armor of the Ages
+
 ### Updated:
 - Resurgence Core
 - Nifty Carts
-- Armor of the Ages
 - Moonlight
+- AzureLib
 - CreativeCore
 - Resurgence UI
+- Fresh Animations
 
