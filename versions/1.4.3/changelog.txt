@@ -17,7 +17,8 @@
 
 ## Mod Changes
 ### Added:
-- Scout
+- MCEF
+- PackAnalytics
 - DungeonZ
 - DungeonZ Desert Addon
 - Epic Witch Huts
