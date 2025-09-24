@@ -19,6 +19,7 @@
 
 ### Removed:
 - Adaptive Tooltips
+- Witcher (More RPG Classes)
 
 ### Updated:
 - Resurgence UI
