@@ -5,6 +5,7 @@
 - Reaper, the Soul Collector: A new soul-based scythe has been added to the game.
 - New enchantment: Sonic Guard, allows you to bounce sonic attacks to other enemies.
 - Added Dark and Chaos modifiers to Obliteration.
+- Removed vanilla clouds by default in both default shader packs.
 
 ## UI Changes
 - Altered the size and shape of the level up popup to be less intrusive.
