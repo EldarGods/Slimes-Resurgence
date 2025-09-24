@@ -18,11 +18,13 @@
 - Fetzi's Displays
 - ToolTipFix
 - JourneyMap
+- WATERViSON
 
 ### Removed:
 - Adaptive Tooltips
 - Witcher (More RPG Classes)
 - Xaero's World Map
+- VideoPlayer
 
 ### Updated:
 - Resurgence UI
@@ -38,4 +40,5 @@
 - Crate Delight
 - Tectonic
 - Moonlight
+- WATERMeDIA
 
