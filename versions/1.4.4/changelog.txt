@@ -17,10 +17,12 @@
 ### Added:
 - Fetzi's Displays
 - ToolTipFix
+- JourneyMap
 
 ### Removed:
 - Adaptive Tooltips
 - Witcher (More RPG Classes)
+- Xaero's World Map
 
 ### Updated:
 - Resurgence UI
