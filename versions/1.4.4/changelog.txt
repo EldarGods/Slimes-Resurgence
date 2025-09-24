@@ -1,0 +1,35 @@
+# Update 1.4.4 - Dragonkin & Reaper
+
+## Changes
+- Dragonkin, the False User: A new fire-based scythe has been added to the game.
+- Reaper, the Soul Collector: A new soul-based scythe has been added to the game.
+- New enchantment: Sonic Guard, allows you to bounce sonic attacks to other enemies.
+- Added Dark and Chaos modifiers to Obliteration.
+
+## UI Changes
+- Altered the size and shape of the level up popup to be less intrusive.
+- Updated icons for Time, Light, Chaos and Dark.
+- New Icons for Oath of Vengeance and Defiance.
+- Updated some Aura particles to be more visible.
+
+## Mod Changes
+### Added:
+- Fetzi's Displays
+- ToolTipFix
+
+### Removed:
+- Adaptive Tooltips
+
+### Updated:
+- Resurgence UI
+- Resurgence Core
+- Chat Heads
+- GeckoLib
+- AzureLib
+- Supplementaries
+- Macaw's Windows
+- Numismatic Overhaul
+- Philips Ruins
+- Right Click Harvest
+- Crate Delight
+
