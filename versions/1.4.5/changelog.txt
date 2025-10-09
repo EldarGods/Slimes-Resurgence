@@ -1,0 +1,53 @@
+# Update 1.4.5 - Resurgence now on controller!
+
+## Changes
+- You can now connect a controller to play Slimes Resurgence! Supports Xbox One/Series, DS4 & DualSense controllers.
+- Increased range of Divine Smite from 3.5 to 5.
+- Increased casting time of Divine Smite from 0.5 seconds to 1.25 seconds.
+- Divine Smite now has a new animation.
+- Aggravate, in the Oath of Vengeance Spellbook, now works as intended.
+- The Avatar of [REDACTED] animations have been updated.
+
+## UI Changes
+- Added Support for Game Controllers.
+- Updated many ingot icons to fit in with the style of Resurgence.
+- Updated lang files for Cosmetic Overrides.
+
+## Mod Changes
+### Added:
+- Controlify
+
+### Updated:
+- Resurgence UI
+- Skinlayers3D
+- ParticleEffects
+- Dynamic Crosshair
+- Dynamic Crosshair Compat
+- Fancy Toasts
+- Better Clouds
+- Chat Heads
+- EMI Let's Do Compat
+- WATERMeDIA
+- RPG Minibosses
+- IceAndFireCE
+- Not Enough Animations
+- Supplementaries
+- Subtle Effects
+- Spellblades and Such
+- Sophisticated Core
+- Ping Wheel
+- Oh The Biomes We've Gone
+- Moonlight
+- MCW Paths
+- Aggro Indicator
+- AzureLib
+- Balm
+- Collective
+- Entity Culling
+- Fzzy Config
+- Loot N Explore
+- Garden Trails
+- LNE Wizards
+- Horseman
+- Just Enough Breeding
+- LMFT
