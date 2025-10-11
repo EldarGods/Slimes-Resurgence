@@ -6,9 +6,10 @@
 - Increased range of Divine Smite from 3.5 to 5.
 - Increased casting time of Divine Smite from 0.5 seconds to 1.25 seconds.
 - Divine Smite now has a new animation.
+- New model and texture for Reaper.
 - Aggravate, in the Oath of Vengeance Spellbook, now works as intended.
 - The Avatar of Malzith animations have been updated.
-- Talent Tree for all relics are now complete.
+- Talent Trees for all relics are now complete.
 
 ## UI Changes
 - Seasonal tooltips now display the correct translation for Velmoria's seasons.
