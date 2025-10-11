@@ -1,20 +1,28 @@
-# Update 1.4.5
+# Update 1.4.5 - Seasonal Wanderers
 
 ## Changes
+- You can now find Seasonal Wanderers occasionally. They will give you certain quest items in exchange for Anima Ingots.
+- Some quest items have been added to Archaeology loot tables.
 - Increased range of Divine Smite from 3.5 to 5.
 - Increased casting time of Divine Smite from 0.5 seconds to 1.25 seconds.
 - Divine Smite now has a new animation.
 - Aggravate, in the Oath of Vengeance Spellbook, now works as intended.
-- The Avatar of [REDACTED] animations have been updated.
+- The Avatar of Malzith animations have been updated.
 
 ## UI Changes
-- Added Support for Game Controllers.
+- Seasonal tooltips now display the correct translation for Velmoria's seasons.
+- Spell Power attribute icons now correctly display on all tooltips.
 - Updated many ingot icons to fit in with the style of Resurgence.
 - Updated lang files for Cosmetic Overrides.
+- Updated Memory of Aethara dimension title.
+
+## Slimes SMP Changes
+- Added Enchanting guide in the quest book.
 
 ## Mod Changes
 
 ### Updated:
+- Resurgence Core
 - Resurgence UI
 - Skinlayers3D
 - ParticleEffects
@@ -42,7 +50,7 @@
 - Collective
 - Entity Culling
 - Fzzy Config
-- Loot N Explore
+- Loot N' Explore
 - Garden Trails
 - LNE Wizards
 - Horseman
