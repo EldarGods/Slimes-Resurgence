@@ -8,6 +8,7 @@
 - Divine Smite now has a new animation.
 - Aggravate, in the Oath of Vengeance Spellbook, now works as intended.
 - The Avatar of Malzith animations have been updated.
+- Talent Tree for all relics are now complete.
 
 ## UI Changes
 - Seasonal tooltips now display the correct translation for Velmoria's seasons.
