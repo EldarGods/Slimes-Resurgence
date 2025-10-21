@@ -1,0 +1,56 @@
+# Update 1.5.0 - Affinities and Reputation
+
+This update will require a full config re-install (Sorry!).
+This means deleting all of your current config files then updating the pack.
+
+## Changes
+- Affinities, a new system that provides passive bonuses based on your aligned deity, has been added to the game.
+- You can view your current affinities in the new affinities tab in the character menu.
+- Reputation allows for these new affinities. Earn favor with your aligned god to unlock bonuses.
+- Added 6 new cosmetic weapon overrides tied to reputation.
+- Slimes API integration, it is now required by all Slimes Studios mods.
+- Updated to Fabric 0.17.3.
+- Cosmetic items now correctly drop from Heroic Challenges at a rate of 5%.
+- Updated the Unlock Heroic Challenges advancement to trigger via Slimes API config.
+- Updated models and textures of some Archon weapons.
+- Added 75 new cosmetic weapon overrides to the Heroic Challenge loot pool.
+- Seasonal Wanderer is now much rarer, with one chance to spawn each season.
+
+## UI Changes
+- Renamed Mythic to Exotic in the item rarity system.
+- Added Reputation menu (UI not finalized).
+- Removed links to wiki from all menus/sources.
+
+## Mod Changes
+### Added:
+- Crash Assistant
+- Slimes API
+- Resurgence Affinities
+
+### Updated:
+- Resurgence Core
+- Resurgence Abilities
+- Slimes Attributes
+- Explosive Enhancement
+- Euphoria Patches
+- Inventory Particles
+- Not Enough Animations
+- Fancy Toasts
+- EMI Let's Do Compat
+- Tectonic
+- Scholar
+- Per-Dimension Game Rules
+- Summoner Scrolls
+- Supplementaries
+- Moonlight
+- AzureLib
+- Collective
+- ExtraLib
+- Companions
+- Entity Culling
+- Crop Markers
+- Fragmentum
+- KnightLib
+- Knight Quest
+- Anarchy
+- Moog's Nether Structures
