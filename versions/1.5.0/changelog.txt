@@ -23,9 +23,9 @@ This means deleting all of your current config files then updating the pack.
 
 ## Mod Changes
 ### Added:
-- Crash Assistant
 - Slimes API
 - Resurgence Affinities
+- Moog's Nether Structures
 
 ### Updated:
 - Resurgence Core
@@ -43,7 +43,6 @@ This means deleting all of your current config files then updating the pack.
 - Summoner Scrolls
 - Supplementaries
 - Moonlight
-- AzureLib
 - Collective
 - ExtraLib
 - Companions
@@ -53,4 +52,3 @@ This means deleting all of your current config files then updating the pack.
 - KnightLib
 - Knight Quest
 - Anarchy
-- Moog's Nether Structures
