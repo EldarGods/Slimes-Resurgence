@@ -4,43 +4,43 @@ Heads up, this one's a biggie!
 As the name implies, Slimes Resurgence has completely re-written the pack from the ground up.
 Unfortunately, this means a lot of content has been removed; however, it's more special than ever before!
 
-#### Let's take a deep dive to see what's new:
+**Let's take a deep dive to see what's new:**
 
-## Changes
-### Levelling
+### Changes
+#### Levelling
 - Your player level now has a direct link to Simply Skills.
 - Player Level is calculated using Simply Skills and a new custom level system.
 - Each level gained will provide you with 1 Ability Point to spend in Simply Skills.
 - The XP curve has been completely reworked to be more challenging at higher levels.
 - New max level is now 99 (previously 65).
-- Maximum Ability Point increase from 32 -> 42.
+- Maximum Ability Point increase from 32 to 42.
 
-### World Generation
+#### World Generation
 - Tectonic and Terralith have been removed from the pack.
 - Lithosphere is now the main world generation mod.
 - Biome dithering is now provided by Pufferfish's Biome Dither mod.
 
-### Edicts
+#### Edicts
 - The Edicts of Ithren are deeply tied to the lore of Velmoria.
 - Edicts are unlocked through various quests and advancements and challenges.
 - Edicts can be viewed in the new Edicts menu in the character menu.
 - Edicts can be used in combination with each other to unlock different aspects of the game.
 - Configurable via config files. Default edict combinations are provided.
 
-### Events
+#### Events
 - Real world events have made their way to Velmoria!
 - Events are hard-coded into the game and will automatically appear on their respective dates.
 - Information about specific events will be released in an update a week prior to their start time.
 - Events are customizable via the config files.
 
-### Lore Changes
+#### Lore Changes
 - The Lore Book is now its own system and is no longer built on Patchouli.
 - Unlocking an Ancient Page will automatically add its entry to your Lore Book.
 - Your Lore Book will now tell you how many lore entries you're missing, so you can keep track of everything.
 - Ancient Pages are available as quest and advancement rewards.
 - SlimesAPI is fully integrated through config files, so this will include lore from any source.
 
-### Other Changes
+#### Other Changes
 - Updated to Fabric Loader 0.18.1.
 - Relics have been removed from the game indefinitely.
 - Cosmetic Overrides have also been removed from the game, although they will return in some form at a later date.
@@ -50,28 +50,29 @@ Unfortunately, this means a lot of content has been removed; however, it's more 
 - All content from Resurgence Abilities and Slimes Attributes has been removed.
 - Added vanilla minecraft content: Spring to Life, Bundles of Bravery, Armored Paws and Bats & Pots.
 
-## UI Changes
-### Stats
+### UI Changes
+#### Stats
 - Stats tooltip has been reworked to include Reputation gain from Resurgence Affinities.
 - Stats tooltip now displays icons at the start of each stat.
 - Stats tooltip now displays current pledged god.
 
-## New Loot Tiers
+#### New Loot Tiers
 Loot rarities have a new structure:
+
 - Common
 - Uncommon
 - Rare
 - Legendary
 - Exotic
 
-### Other
+#### Other
 - Lore Page has been renamed to "Ancient Page".
 - Icon database now provides all icons for the pack.
 - Updated Resurgence UI to match Vanilla Backport's namespace changes.
 - Better Nether updated textures.
 
-## Mod Changes
-### Added
+### Mod Changes
+#### Added
 - Accessorify
 - Better Villages
 - Luki's Grand Capitals
@@ -87,7 +88,7 @@ Loot rarities have a new structure:
 - Wilder Wild
 - Immersive Paintings
 
-### Removed
+#### Removed
 - Resurgence Abilities
 - Slimes Attributes
 - Ping Wheel
@@ -120,7 +121,7 @@ Loot rarities have a new structure:
 - Arch-RPG Mana
 - Chunky
 
-### Updated
+#### Updated
 - Resurgence Core
 - Resurgence Affinities
 - Vanilla Backport
