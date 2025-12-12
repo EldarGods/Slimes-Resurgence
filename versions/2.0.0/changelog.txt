@@ -1,12 +1,12 @@
 # Update 2.0.0 - A total rework!
 
 Heads up, this one's a biggie!
-As the name implies, Slimes Resurgence has completely re-written the pack from the ground up.
+As the name implies, Slimes Resurgence has been completely re-written from the ground up.
 Unfortunately, this means a lot of content has been removed; however, it's more special than ever before!
 
 **Let's take a deep dive to see what's new:**
 
-### Changes
+### Core Changes:
 #### Levelling
 - Your player level now has a direct link to Simply Skills.
 - Player Level is calculated using Simply Skills and a new custom level system.
@@ -14,6 +14,18 @@ Unfortunately, this means a lot of content has been removed; however, it's more 
 - The XP curve has been completely reworked to be more challenging at higher levels.
 - New max level is now 99 (previously 65).
 - Maximum Ability Point increase from 32 to 42.
+
+**Some items now have level requirements, including but not limited to: **
+- Vanilla Minecraft
+- RPG Series
+- Supplementaries
+- Knight Quest
+- Graveyard
+- Deeper & Darker
+- AdventureZ
+- End's Phantasm
+
+**More mods will be added to this list at a later date.**
 
 #### World Generation
 - Tectonic and Terralith have been removed from the pack.
@@ -30,8 +42,12 @@ Unfortunately, this means a lot of content has been removed; however, it's more 
 #### Events
 - Real world events have made their way to Velmoria!
 - Events are hard-coded into the game and will automatically appear on their respective dates.
-- Information about specific events will be released in an update a week prior to their start time.
 - Events are customizable via the config files.
+- The events system grants seasonal currency at configurable intervals.
+- Themed welcome messages with five style options.
+- Debug Commands: /eventdebug and /eventcheck for troubleshooting.
+- Fixed "0-24" active hours and server startup activation.
+- Per-event currency settings and notification preferences.
 
 #### Lore Changes
 - The Lore Book is now its own system and is no longer built on Patchouli.
@@ -48,16 +64,19 @@ Unfortunately, this means a lot of content has been removed; however, it's more 
 - Resurgence Affinities is now a hard dependency.
 - Removed Intel chipset false positive warning in Crash Assistant.
 - All content from Resurgence Abilities and Slimes Attributes has been removed.
-- Added vanilla minecraft content: Spring to Life, Bundles of Bravery, Armored Paws and Bats & Pots.
+- Added vanilla minecraft content: Spring to Life, Copper Age, Bundles of Bravery, Armored Paws and Bats & Pots.
+- Seasonal Wanderers now despawn after 1 hour, regardless of player intervention or server reload.
 
-### UI Changes
-#### Stats
-- Stats tooltip has been reworked to include Reputation gain from Resurgence Affinities.
-- Stats tooltip now displays icons at the start of each stat.
-- Stats tooltip now displays current pledged god.
+
+### UI Changes:
+#### Character Panel (Stats)
+- The character panel has been reworked to include Reputation gain from Resurgence Affinities.
+- Tooltip now displays attribute icons at the start of each stat.
+- Tooltip now displays current pledged god.
+- Added more attribute icons to the character panel tooltip.
 
 #### New Loot Tiers
-Loot rarities have a new structure:
+**Loot rarities have a new structure: **
 
 - Common
 - Uncommon
@@ -66,10 +85,49 @@ Loot rarities have a new structure:
 - Exotic
 
 #### Other
-- Lore Page has been renamed to "Ancient Page".
-- Icon database now provides all icons for the pack.
+- Lore Page has been renamed to "Ancient Page" and now unlocks a Lore Entry.
+- The icon database class now provides all icons for the pack.
 - Updated Resurgence UI to match Vanilla Backport's namespace changes.
-- Better Nether updated textures.
+- Updated the textures of Better Nether.
+
+## Slimes SMP Changes
+### The Festival of Glacis: Active from December 10th through January 5th!
+As winter's grip tightens across Velmoria, the ancient Spirits of Glacis descend from their frozen peaks to celebrate the season of ice and snow.
+The Festival of Glacis is a time of wonder, generosity, and winter magic—a celebration where the boundary between the mortal realm and the crystalline spirit world grows thin with frost.
+
+### What to expect:
+#### Seasonal Currency: Candy Canes
+- Collect 5 Candy Canes every 20 minutes while online during the festival.
+- Use your Candy Canes at the special Festival Merchant to purchase exclusive winter items.
+- Candy Canes materialize as a gift from the ice spirits themselves!
+
+#### Daily Spirit Gifts
+- Receive a daily gift from the Spirits of Glacis.
+- Log in each day to claim your Raw Anima blessing.
+- Gifts reset at midnight—don't miss a day!
+
+#### Festival Merchant
+**Visit the Festival Merchant to spend your Candy Canes on:**
+Ice & Snow Items:
+- Snowballs, Ice, Packed Ice, Blue Ice
+- Powder Snow Buckets
+
+Winter Provisions:
+- Cooked Beef, Porkchop, and Mutton
+- Golden Apples
+- Festive Cake
+
+Festival Decorations:
+- Lanterns and Soul Lanterns
+- Blue and White Candles
+- Light up your home for the season!
+
+Special Items:
+- Raw Anima (4 Candy Canes for 10 pieces)
+- Ender Pearls (4 Candy Canes for 12 pearls)
+
+Exclusive Rewards:
+- Glacis Gift Box (5 Candy Canes) - A festive present with a chance to receive Glacis treasures!
 
 ### Mod Changes
 #### Added
@@ -87,6 +145,7 @@ Loot rarities have a new structure:
 - Lithosphere
 - Wilder Wild
 - Immersive Paintings
+- Copper Age Backport
 
 #### Removed
 - Resurgence Abilities
