@@ -1,5 +1,0 @@
-# Hotfix 1.4.1hf1
-
-## Changes
-- Fixed UI changes in main-menu and the capes menu.
-- Fixed crash on server.
