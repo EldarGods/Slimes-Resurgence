@@ -1,0 +1,25 @@
+# Update 2.0.1 - Hotfix
+
+### Changes
+- Disabled fancy menu edit mode.
+- Added the bestiary.
+- Updated some BOMD textures.
+- Reduced the netherite scrap yield from AdventureZ.
+- Create now works with shaders (Limited support).
+
+#### UI Changes:
+- Fixed placeholder text for bug reports.
+- Disabled advanced tooltips by default.
+- Bestiary button is located in the inventory.
+- Updated Enhanced Visuals' damage textures.
+
+### Mod Changes
+#### Added:
+- Mob Journal
+- Aquamirae Boss Music
+- ANARCHY
+- Simple RPC
+- Colorwheel
+
+#### Removed:
+- Discord Rich Presence
