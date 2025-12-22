@@ -1,0 +1,132 @@
+# This Week in Velmoria
+## Update 2.0.2
+
+Greetings, Seeker.
+This week in Velmoria, we’re rolling out Update 2.0.2, a focused quality-of-life and balance patch aimed at tightening progression rules, improving UI clarity, and addressing several long-standing edge cases.
+This update also includes seasonal flair for the Festival of Glacis, alongside important SMP and balance adjustments.
+
+**Let’s get into it.**
+
+## Patch Highlights
+- A full overhaul of the Level Unlock Screen, now clearer, cleaner, and including boss levels.
+- Progression rules are now fully enforced, even in creative mode.
+- Multiple exploits around armor equipping have been closed.
+- Seasonal festivities continue—Creepers are once again embracing Glacis fashion.
+- Several problematic items have been disabled to stabilize balance going forward.
+
+## Update 2.0.2 – Changes
+### General
+- Updated pack icon and window icon.
+- Blocks can no longer be broken without the required level, including in creative mode.
+- Armor can no longer be equipped without meeting its level requirement, including being:
+    - Shift-clicked
+    - Manually placed
+    - Right-click equipped
+
+- Fixed an IllegalStateException caused by removing entities from teams they were never part of.
+- Creepers will wear Santa hats for the remainder of the Festival of Glacis.
+- Completely redesigned Level Unlock Screen.
+- Level screen now displays boss progression levels.
+- The Inventory Report Bug button has been moved to the bottom-left of the screen.
+- Fixed a bug where the inventory side buttons were still active when viewing the attributes panel.
+- Added level guide inventory button.
+- Changed horse saddle textures.
+- Complete overhaul of all the player animations (Thanks PierceTH!).
+- Reverted back to Reactive Music.
+
+### Progression Updates
+Level requirements have been added for content from:
+- Paradise Lost
+- Knight Quest
+- Companions
+- Simply Swords (no uniques yet)
+- Mythic Metals (no armor yet)
+
+**These changes bring all major gear sources in line with Velmoria’s intended progression curve.**
+
+### Known Issues
+- Armor may appear to disappear when right-clicked without the required level.
+- This is visual only—the item is not lost and will reappear appropriately.
+
+### SMP Changes
+- Players must now verify their account before joining the SMP.
+- Once verified, players may request whitelist access.
+- This improves server security and helps ensure a smoother experience for everyone.
+
+### Balance Changes
+#### Bosses
+- **Conjunctivius**: Increased health and damage.
+- **Blackstone Golem**: Increased health and damage.
+
+#### Recipes
+- Adjusted several recipes to improve compatibility with AdventureZ.
+
+#### Disabled Items
+The following items are temporarily disabled while balance and progression concerns are addressed:
+- Flaming Ruby tools, weapons, and armor (Better Nether)
+- Totem of Freezing (Friends and Foes)
+- Totem of Illusion (Friends and Foes)
+- Ivory Arrow (AdventureZ)
+- Divider (Aquamirae)
+- Fin Cutter (Aquamirae)
+- Terrible Sword (Aquamirae)
+- Feral Claws (Artifacts)
+- Cursed Sword (Minecells)
+- Frostmourne (Souls Weapons)
+- Voidforge (Spellblades & Such)
+- Broken Watch (Things)
+- Empty Agglomeration (Things)
+
+#### Item Stat Changes
+- **Warden Armor Set**: +15 Max Health.
+- Added Healing Spell Power to multiple paladin-oriented weapons.
+
+### Mod Changes
+#### Updated
+- Resurgence Core
+- Enchantment Descriptions
+- Fusion
+- AddonsLib
+- MCW BYG
+- Pufferfish's Skills
+- Oh the Biomes We've Gone
+- Ribbits
+- Knight Lib
+- Fabric Language Kotlin
+- Accessorify
+- Fzzy Config
+- Sophisticated Core
+- Leaky
+- Chunks Fade In
+
+#### Added
+- Luki’s Strongholds
+- Luki’s Woodland Mansions
+- Max Health Fix
+- Serious Player Animations
+- Reactive Music
+
+#### Removed
+- Botania
+- Simply More
+- Summoner Scrolls
+- Reintegrated Chipped
+- Chipped
+- Integrated API
+- More Chest Variants
+- Jupiter
+- Horseman
+- Leave My Bars Alone
+- Overflowing Bars
+- Longwings
+- Customizable Elytra
+- Yung's Better Stronghold
+- Derelict
+- Animation Overhaul
+- Biome Music
+- Medieval Music
+- Smart Key Prompts
+
+## Looking Ahead
+This update lays the groundwork for tighter progression enforcement and future boss-driven content, especially as Velmoria continues moving deeper into its new age.
+Expect follow-up patches to revisit disabled items and expand on the new boss-level systems.
