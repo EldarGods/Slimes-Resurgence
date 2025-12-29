@@ -1,0 +1,5 @@
+# Update 2.0.3 HOTFIX
+
+### Sometimes we make errors!
+**There's only one change here:**
+- Fixed a bad mixin causing servers to not accept joining players.
