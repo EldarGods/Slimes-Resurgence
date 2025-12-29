@@ -30,6 +30,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "2.0.3",
+      "releasedAt": 1767009600000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/slimes-resurgence"
+        }
+      },
+      "updateType": "minor"
     }
   ]
 }

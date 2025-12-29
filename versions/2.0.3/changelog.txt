@@ -1,0 +1,101 @@
+# This Week in Velmoria
+## Update 2.0.3
+
+Greetings, Seeker.
+This week in Velmoria, Update 2.0.3 has been about discipline—of systems, of progression, and of presentation.
+Update 2.0.3 is less about flashy additions and more about ensuring the world behaves with intent, clarity, and narrative weight.
+
+## Patch Highlights
+- Finally fixed the level desync on rejoining a world or server.
+- Players can unlock titles through various conditions and display them in chat and above their heads.
+- Made improvements to the Lore Book screen, pulling it in line with Edicts and Level Requirements.
+
+**Let’s get into it.**
+
+One of the most immediately noticeable changes is to Titles. The selection screen has been refined so that titles finally feel like named honors rather than anonymous icons.
+Each title now presents itself clearly, with its name rendered alongside its symbol, spaced and aligned to read naturally.
+Hovering over entries is smoother and more informative and the currently equipped title stands out without ambiguity.
+It is a small change in scope, but one that reinforces identity—who your character is, and what they’ve earned.
+
+Progression itself has taken a decisive turn toward story-driven structure. Levels are no longer an open-ended climb.
+Instead, advancement is now bound to where you stand in Velmoria’s unfolding narrative. For now, the road ends at level 20.
+When that limit is reached, experience no longer spills uselessly into the void; it is clamped cleanly, and the game tells you exactly why you cannot progress and what must be done to move forward.
+In some cases, brute force will not suffice—bosses, not grinding, may hold the key. This change lays the groundwork for future chapters, where progression is earned through moments, not hours.
+
+Under the surface, a great deal of technical debt has finally been paid. Several long-standing issues with XP calculation and synchronization have been resolved.
+Levels no longer reset on server restart. Client and server now agree on how XP is calculated and interpreted, using a unified, cumulative XP table rather than mismatched assumptions.
+Progress bars now tell the truth, reflecting real thresholds instead of misleading estimates.
+For those who reach the true peak, the game now acknowledges it plainly: MAX LEVEL is no longer a rumor.
+
+The world itself has gained a touch of menace. Creatures no longer simply appear—they rise.
+New spawn animations pull mobs from the earth, giving encounters a brief, unsettling moment of anticipation.
+Alongside this, item and mob tiers have been standardized to align cleanly with Tierify, ensuring consistency across the modpack and eliminating edge-case confusion.
+The modpack has also been trimmed and reinforced. Several mods have been updated to stabilize the experience, while others have been removed where they no longer fit the direction of the pack.
+New additions, such as Respawn Obelisks and Tierify integrations, support the long-term vision of structured progression and meaningful recovery rather than punishment.
+
+There are still rough edges. Shields are currently more permissive than intended, and progression beyond level 20 is intentionally sealed until the next stage of the story is ready.
+But this update was never about pushing forward recklessly. It was about narrowing the path, making sure that when Velmoria asks you to advance, it does so with purpose.
+
+**The world is quieter now—but only because it is preparing to speak more clearly in the weeks ahead.**
+
+## Update 2.0.3 – Changes
+### Titles
+- Added title display names to the Title Selection screen, rendered alongside their icon.
+- Improved visual clarity by spacing icons and names consistently within each row.
+- Fixed tooltip rendering by using the correct Fabric 1.20.1 DrawContext.drawTooltip API.
+- Enhanced hover behavior with proper row highlighting and informative tooltips.
+- Maintained active title highlighting to clearly indicate the currently equipped title.
+
+### Level Cap Features
+- Level is now capped depending on where you are in the story.
+- XP gain automatically clamped at current level cap.
+- Clear in-game notifications when hitting level caps.
+- Messages inform players exactly what they need to progress.
+- Alternative progression paths through boss defeats.
+- Level cap checks integrated into all XP gain methods (tick, addXP, setXP, player join).
+- Player progress is currently capped at level 20.
+
+### General
+- Adjusted tiers to be compatible with Tierify: Common, Uncommon, Rare, Legendary, Exotic, Mythic.
+- Mobs now have spawning animations; watch them rise from the ground in terror!
+- Fixed a major IndexOutOfBoundsException error causing console spam.
+- Skill tree no longer warns you that you need Paladins and Priests installed.
+- Fixed critical bug where player levels would reset to 1 on server rejoin/restart.
+- Server now properly initializes level data from Puffish Skills XP on player join.
+- Client-side level calculation now uses custom XP table instead of Puffish's calculations.
+- Added new method for consistent level calculations across client and server.
+- Corrected XP table interpretation; table now properly uses cumulative totals.
+- Fixed progress bar showing incorrect XP requirements.
+- Progress bar now accurately displays current level progress with proper thresholds.
+- Added "MAX LEVEL" display for level 99 players.
+
+### Known Issues
+- Shields are able to parry regardless of level requirement.
+- Unable to progress past level 20.
+
+### SMP Changes
+
+### Mod Changes
+#### Updated
+- Resurgence Core
+- Better Combat Particle
+- Crash Assistant
+- Particle Effects
+- Custom Portals
+- Just Enough Breeding
+- Moonlight
+- Oh the Biomes We've Gone
+
+#### Added
+- Respawn Obelisks
+- Tierify
+- Kev's Tierify Modifiers
+- Spawn Animations
+
+#### Removed
+- Dangerous Stonecutter
+- Exotic
+- Lodestone
+- Stained Lenses
+
+## Looking Ahead
