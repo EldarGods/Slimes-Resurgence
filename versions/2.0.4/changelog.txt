@@ -83,6 +83,7 @@ This week in Velmoria, we’re rolling out Update 2.0.4! This update requires a 
 
 ### Mod Changes
 #### Updated
+- Resurgence Core
 - Inventory Particles
 - Wavey Capes
 - Entity Culling
