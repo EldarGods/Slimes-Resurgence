@@ -1,0 +1,119 @@
+# This Week in Velmoria
+## Update 2.0.4
+
+Greetings, Seeker.
+This week in Velmoria, we’re rolling out Update 2.0.4! This update requires a full config refresh (sorry).
+
+**Let’s get into it.**
+
+## Patch Highlights
+-
+
+## Update 2.0.4 – Changes
+### General
+- Fixed a CCA:World version mismatch between Resurgence Core and BOMD.
+- Dimension access is now dependent on a series of factors, usually an advancement requirement.
+- Bestiary now correctly shows discovered mobs.
+- Edicts now grant advancement rewards as well as modifiers!
+- Removed MCDW as there were just too many melee weapons in the game.
+- Fixed cow, sheep, pig and spider textures.
+- Updated Too Many Bows loot tables.
+- Level unlock screen now groups by equipment type, then mod, then slot.
+- Added background texture for the player title screen.
+- Now player name displays by default, press ] to toggle this.
+- Boss bars are now toggleable with the [-] key.
+- Fixed an animation bug with bows.
+- Bows now require you to aim to shoot, right click aim, left click fire.
+
+### Class Changes
+- Huge changes for ranged in this update, we've been looking at some of the weapons available, and it's not good enough.
+    - Ranged users are getting a big boost in variety with the addition of Too Many Bows.
+
+- New Class: **Berserker**
+    - The berserker spell book is unlocked at level 60 and enables high damage using Rage power.
+    - This is meant to be an option for melee users at high levels, as other styles have high level options too.
+
+### Levelling
+- Level sync finally works! Reads data from puffish and throws out any regressive level updates.
+- Dimensions are now locked behind level requirements (among other things).
+- Adjusted level requirements for all elytra types.
+- Level caps have changed slightly in this update. New level caps are as follows:
+    - 20 for all players at base level.
+    - 35 after defeating the Forsaken Magus.
+    - 40 after defeating the Gauntlet.
+    - 65 after defeating the Ender Dragon.
+    - 99 after defeating Conjunctivius.
+
+- Added Level requirements to the following mods:
+    - Spellblades and Such
+    - Simply Swords (Uniques)
+    - Berserkers
+    - Too Many Bows
+    - Mythic Metals (Armor)
+    - Dungeon Now Loading
+
+### Balance Changes
+- Removed the following items from the game, either due to aesthetic reasons, bugs, or they are too strong:
+    - Flint Berserker Axe
+    - Stone Berserker Axe
+    - Iron Berserker Axe
+    - Gold Berserker Axe
+    - Flaming Ruby Upgrade Template
+    - Dark Bow
+    - Arcane Bow
+    - Blazing armor set
+    - Frozen armor set
+    - Frostbite
+    - Arc Heavens
+    - Dragons Breath
+    - Burnt Relic
+    - Crimson Nexus
+    - Radiance
+    - Ethereal Hunter
+    - Spectral Whisper
+    - Astral Bound
+    - Flame Bow
+    - Necro Flame Bow
+    - Scatter Bow
+    - Torchbearer
+
+### Known Issues
+- Left-click firing has no animation without aiming.
+- Shields are able to parry without the required level.
+
+### Mod Changes
+#### Updated
+- Inventory Particles
+- Wavey Capes
+- Entity Culling
+- EMF
+- ETF
+- Addons Lib
+- Colorwheel
+- Scholar
+- Connectible Chains
+- MossyLib
+- Mythic Metals
+- Chunks Fade In
+- Variants&Ventures
+- Mob Journal
+- Loot Integrations: Moogs
+
+#### Added
+- Mehabel Creatures Draugr
+- FTB Filter System
+- Access Denied
+- Too Many Bows
+- Bow Mechanics Overhaul
+- Camera Overhaul
+- First Person Model
+- Dynamic Crosshair
+- Loot Beams Refork
+- Berserker
+
+#### Removed
+- MCDW
+- More Mob Variants
+- Loot Beams
+
+## Looking Ahead
