@@ -6,6 +6,7 @@
 - Removed all spell books from loot tables on the SMP.
 - Bestiary now shows the correct animations.
 - Fixed some mobs not burning in daylight.
+- Added health bars, they will appear when looking at a target that is not full health.
 
 ## Mod Changes
 ### Updated
