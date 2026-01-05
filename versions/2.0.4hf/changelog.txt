@@ -1,0 +1,23 @@
+# Update 2.0.4 HOTFIX
+
+### Sometimes we make errors!
+**There's only a couple of changes here:**
+- Fixed EMI not reloading/starting up when connecting to the SMP.
+- Removed all spell books from loot tables on the SMP.
+- Bestiary now shows the correct animations.
+- Fixed some mobs not burning in daylight.
+
+## Mod Changes
+### Updated
+- Balm
+- Mob Journal
+- Easy NPC
+- Variants & Ventures
+
+### Added
+- KubeJS
+- Rhino
+- LootJS
+
+### Removed
+- Friends & Foes
