@@ -6,9 +6,6 @@ This week in Velmoria, we’re rolling out Update 2.0.4! This update requires a 
 
 **Let’s get into it.**
 
-## Patch Highlights
--
-
 ## Update 2.0.4 – Changes
 ### General
 - Fixed a CCA:World version mismatch between Resurgence Core and BOMD.
@@ -116,5 +113,3 @@ This week in Velmoria, we’re rolling out Update 2.0.4! This update requires a 
 - MCDW
 - More Mob Variants
 - Loot Beams
-
-## Looking Ahead
