@@ -1,0 +1,104 @@
+# This Week in Velmoria
+## Update 2.0.5
+
+Greetings, Seeker.
+This week in Velmoria, we’re rolling out Update 2.0.5, and it's all about making the menus more cohesive.
+You can access your player profile by clicking on the level in your inventory. Titles are also getting a be overhaul with
+a fully redesigned UI, cleaner progression and unlock logic.
+
+**Let’s get into it.**
+
+## Patch Highlights
+- **New Player Profile Hub:** Access a centralized profile screen showing your rotating character model, active title, and quick navigation to all major menus.
+- **Titles System Overhaul:** Complete redesign of the titles UI with categories, search functionality, and configurable display modes. Titles now appear above your name!
+- **UI Consistency Pass:** Lore Book, Level Unlocks, and Titles screens all share a cohesive book-style design with proper navigation.
+- **Quality of Life:** Fixed level display bugs, removed spam effects, and streamlined the player experience across worlds.
+
+## Changes
+### Player Profile
+- Accessed from the inventory screen, the profile screen shows a rotating model of your player, with your name and current active title, and a set of navigation buttons to other menus.
+- This acts as a hub for all the relevant menus in the modpack.
+- Access your Level Unlocks, Title Selection, Lore Book, Statistics, and Advancements all from one place.
+- Hover over your character model to view detailed stats and progression.
+- Your equipped armor and items are fully visible on the rotating model.
+
+### UI
+- Lore Book has a new design, it's a bit more book-like.
+- Level unlocks and titles screen brought in line with the new lore book design.
+- Added a settings page for displaying titles.
+- Added proper textures and navigation buttons (forward/back arrows).
+- Stats tooltip now shows correct level when switching worlds/servers.
+- Level-up effects don't spam when joining a world with higher level.
+- Legitimate level-ups still trigger effects properly.
+- Removed reputation from the stats tooltip, pledges are still present.
+- English is now the only language available (due to the many custom font overrides, sorry).
+
+### Titles
+- Titles now display above your name unless set to icon-only mode (toggled in title settings).
+- All titles are categorized and earnable in various ways:
+    - **Player Level:** Through level-ups, every 3 levels.
+    - **Bosses:** Killing bosses grants a title to show your progress.
+    - **Story:** Available on the SMP, given at certain points in the story as quest rewards.
+    - **Items:** Given after obtaining certain items.
+    - **Events:** Complete seasonal content in the pack during holiday events.
+    - **Special:** Other titles that don't fit into the other categories.
+- Added category support for organizing titles.
+- Categories are now configurable via json.
+- Two-state navigation system:
+    - Category list view showing all title categories.
+    - Title list view showing titles within selected category.
+- Categories display unlock progress.
+- "Player Level" category appears first, followed by alphabetically sorted categories.
+- Added search functionality, by name or acquisition hint.
+- Real-time filtering as you type.
+- Title display modes: Icon Only, Text Only, or Both (configurable in title settings).
+
+### General
+- Buffed Holy Robes and Blood Crystallized armor set bonuses.
+- Increased spawn weight of draugrs.
+- Overhauls to reputation, including menu access via the inventory screen. Benefits will come at a later date.
+- Reworked old inventory screen tabs for parity with new tabs.
+- Anima Conduit is now unbreakable.
+
+## Mod Changes
+### Updated
+- Resurgence Core
+- Resurgence Affinities
+- Almost Unified
+- Connectible Chains
+- Nirvana Lib
+- Supplementaries
+- All The Wood We've Got
+- Variants&Ventures
+- Companions
+- Puffish's Attributes
+- MossyLib
+- Inventory Particles
+- Loot Beams:Refork
+- Chunks Fade In
+- Advanced Loot Info
+- Inventory Particles
+- Toro Health Indicator
+- Luki's Grand Capitals
+- Custom Portals
+- Moonlight
+- Ghosts
+- Mebahels draugr's
+- Too Many Bows
+- Kiwi
+- Fabric API
+- Chimes
+- Fusion
+- Oh The Trees You'll Grow
+- Fzzy Config
+- Amendments
+- Supermartjin Core
+- Colorwheel
+- Easy NPC
+- Easy NPC: Core
+- Easy NPC: Config
+- RightClickHarvest
+- FTB Teams
+- Mob Journal
+- Fragmentum
+- Pillager Caravans
