@@ -11,7 +11,7 @@ This week in Velmoria, we’re rolling out Update 2.0.6, introducing Prayers, Da
 - **New Spells** — Several new spells have been added across magic, ranged, and melee combat styles. Seek them out.
 - **Bug Fixes** — Advancements no longer trap players at level 20, the Mob Journal is back in working order, and the level-up popup has been tamed.
 
-## Update 2.0.2 – Changes
+## Update 2.0.6 – Changes
 ### General
 - Grass and bushes can now spread upon being bonemealed.
 - Updated Happy Ghast animations.
