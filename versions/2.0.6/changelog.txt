@@ -1,0 +1,121 @@
+# This Week in Velmoria
+## Update 2.0.6
+
+Greetings, Seeker.
+This week in Velmoria, we’re rolling out Update 2.0.6, introducing Prayers, Daily Tributes, changes to Anima and Reputation.
+
+**Let’s get into it.**
+
+## Patch Highlights
+- **Tributes** — A brand-new daily reward system is live. Log in each day to receive challenges, boss hunts, and streak rewards scaled to your level.
+- **New Spells** — Several new spells have been added across magic, ranged, and melee combat styles. Seek them out.
+- **Bug Fixes** — Advancements no longer trap players at level 20, the Mob Journal is back in working order, and the level-up popup has been tamed.
+
+## Update 2.0.2 – Changes
+### General
+- Grass and bushes can now spread upon being bonemealed.
+- Updated Happy Ghast animations.
+- Hotbar now has extra nature details.
+- Added banners for all gods.
+- Added several new spells to magic, ranged and melee combat styles.
+- Removed the copper age backport till the end flashes are fixed.
+- Added Tributes, a fully-featured daily reward system, every time you log in you'll be given challenges, boss hunts, and login streak rewards scaled to your player level.
+- Player model no longer rotates, and is draggable in the profile screen.
+- Added a new form of teleport spell, unlocked via quests.
+- Adjusted the levels of some bosses.
+- Added titles that read minecraft stats directly.
+- Added more cosmetic, boss and item titles.
+
+### Prayers
+- Added the Prayer Book and Sigil; you can activate prayers and presets from these respectively.
+- Added the Pool of Glory, where you can edit your prayers, pledge to a god and tithe to them.
+- Right-click to open a 3-tab shrine menu:
+    - **Pledge Tab**: View all 6 gods, pledge to one. Gods are locked behind advancements until you earn them. Locked gods appear greyed with a lock icon.
+    - **Presets Tab**: Full prayer preset manager embedded in the shrine. Create, edit, and name up to 5 presets without needing to use the Prayer Book.
+    - **Tithe Tab**: Sacrifice held anima items for reputation with your pledged god. Conversion rates range from 1 rep (Raw Anima) up to 200 rep (Pristine Anima Crystal).
+
+### Edicts
+- Discovering a new edict combination grants +150 Ithren reputation.
+- 4 prayers are gated behind edict combos:
+    - **Piety** → Endure + Pietra + Vitalis.
+    - **Communion** → Anima + Soul + Unify.
+    - **Turmoil** → Consume + Soul + Umbra.
+    - **Eternal Torment** → Consume + Ignis + Mortem.
+
+### Bug Fixes
+- Fixed various advancements causing players to be stuck at level 20.
+- Mob Journal now correctly works (Thanks Kev!)
+- Level-up popups no longer trigger every time xp is gained.
+- Removed flickering and dark patches on the player model in the profile screen.
+- Anima drain no longer plays the orb pickup sound on every tick; now plays at most once every 6 seconds.
+
+### Slimes SMP
+- Disabled the following items:
+    - Frost Bite Dragon Priest Staff
+    - Frost Spike Dragon Priest Staff
+
+## Mod Changes
+### Updated
+- Resurgence Core
+- Resurgence Affinities
+- Mob Journal
+- Companions
+- GeckoLib
+- Dynamic FPS
+- EMF
+- LootJS
+- WaterMedia: YT Plugin
+- Pufferfish's Attributes
+- Platform
+- Vanilla Backport
+- Fabric Language Kotlin
+- Fancy Toasts
+- Ghosts
+- Fzzy Config
+- FTB Quests
+- Enchantment Descriptions
+- Cherry Grove Monastary
+- Max Health Fix
+- Attribute Fix
+- FTB Essentials
+- Crash Assistant
+- Dark Paintings
+- Too Many Bows
+- Macaw's Doors
+- MCW Bridges
+- Aggro Indicator
+- Hopo's Ruined Portals
+- Better End Cities
+- Moonlight
+- MCA Reborn
+- Puffish Skills
+- Variants & Ventures
+- Mebahel's Draugrs
+- End's Phantasm
+- Ghosts
+- Patchouli
+- Inventory Particles
+- ColorWheel
+- Particle Effects
+- Immersive Hotbar
+- Oh the Biomes We've Gone
+- JamLib
+- Cupboard
+
+### Added
+- Mebahel's Dwarven Automatons
+- Spells Lab: Extras
+- Immersive Gateways
+- Mebahel's API
+- Daily Challenges
+- Numismatic Auto Pouch
+
+### Removed
+- Moving Elevators
+- Easy NPC
+- Copper Age Backport
+- Spawners+
+- Pillager Caravans
+- Cherry Grove Monastery
+
+## Looking Ahead
